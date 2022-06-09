@@ -11,3 +11,7 @@ test
 ```
 pytest 
 ```
+
+running tests in Jetbrains IDE
+
+> right click `tests` folder and click `Run Python Tests in ...`
